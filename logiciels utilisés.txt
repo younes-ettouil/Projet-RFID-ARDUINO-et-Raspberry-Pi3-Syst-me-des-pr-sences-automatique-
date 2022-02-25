@@ -1,0 +1,5 @@
+Les logiciels utilisés:
+	-Arduino IDE (Arduino)  : https://www.arduino.cc/en/software
+	-Thonny (IDE Python)    : https://thonny.org/
+	-Visual Studio Code     : https://code.visualstudio.com/download
+	-Apache2 (web Server)   : https://httpd.apache.org/download.cgi
